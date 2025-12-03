@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**PavanelliGustavo/PavanelliGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Pavanelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanelliGustavo)](https://github.com/PavanelliGustavo/github-readme-stats)
 
 Here are some ideas to get you started:
 
