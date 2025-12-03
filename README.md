@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
+<br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/pavanelligustavo/pavanelligustavo/output/snake.svg" alt="Snake animation" />
 </div>
