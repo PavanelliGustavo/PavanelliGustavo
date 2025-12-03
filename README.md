@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Pavanelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanelliGustavo)](https://github.com/PavanelliGustavo/github-readme-stats)
+[![Pavanelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanelliGustavo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 Here are some ideas to get you started:
 
