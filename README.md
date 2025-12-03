@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pavanelligustavo/pavanelligustavo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/PavanelliGustavo/PavanelliGustavo/output/snake.svg" alt="Snake animation" />
 </div>
