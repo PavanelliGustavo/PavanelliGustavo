@@ -25,7 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dudavidal/PavanelliGustavo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/PavanelliGustavo/PavanelliGustavo/output/snake.svg" alt="Snake animation" />
 </div>
  
 ### Other Knowledge:
