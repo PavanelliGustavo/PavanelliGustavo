@@ -23,16 +23,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PavanelliGustavo/PavanelliGustavo/output/snake.svg" alt="Snake animation" />
-</div>
  
 ### Other Knowledge:
   
 ### Studying in this moment:
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PavanelliGustavo/PavanelliGustavo/output/snake.svg" alt="Snake animation" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
