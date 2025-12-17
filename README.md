@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">  
-<a href="https://www.instagram.com/gustavo__np/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+<a href="https://www.linkedin.com/in/gustavo-pavanelli-9a5216337/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-017B7D?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
  
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
