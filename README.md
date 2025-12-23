@@ -11,22 +11,17 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/gustavo-pavanelli-9a5216337/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-017B7D?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
- 
-### Main skills:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
   
-### Studying in this moment:
+### TECHNICAL SKILLS
+**Languages:** C++, Python, C, SQL.
+
+**AI & Data Science:** PyTorch, Pandas, NumPy, Matplotlib, Jupyter Notebooks.
+
+**Embedded Systems:** Microcontrollers (MSP430), UART/Serial Communication, GNSS/GPS Modules.
+
+**Tools & Frameworks:** Git/GitHub, LaTeX, PostgreSQL, Tkinter (GUI), Linux.
+
+**Communication:** Portuguese (Native), English (Upper Intermediate), Spanish (Intermediate).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PavanelliGustavo/PavanelliGustavo/output/snake.svg" alt="Snake animation" />
