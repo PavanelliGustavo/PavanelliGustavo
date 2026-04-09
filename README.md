@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats-drab-three-58.vercel.app/api/top-langs/?username=PavanelliGustavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Stats](./profile/stats.svg)
-
 <div align="center">  
 <a href="https://www.linkedin.com/in/gustavo-pavanelli-9a5216337/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-017B7D?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
